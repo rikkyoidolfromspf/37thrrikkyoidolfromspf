@@ -1,0 +1,30 @@
+{
+  "font": {
+    "Arial — 24 pt": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "丸ゴ— 40 pt": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "Arial — 24 pt": {
+        "value": "24"
+      },
+      "丸ゴ— 40 pt": {
+        "value": "10"
+      }
+    }
+  }
+}
